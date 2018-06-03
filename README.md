@@ -1,1 +1,2 @@
-# EmbeddedDevelop.github.io
+# 说明
+这是EmbeddedDevelop博客仓库。
